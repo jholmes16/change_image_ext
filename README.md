@@ -1,1 +1,1 @@
-This is changes the extention of a file and moves it to a new folder using Python.
+This changes the extention of a file and moves it to a new folder using Python.
